@@ -16,6 +16,10 @@ body{
   color:#1d2a2e;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+
 img{
   max-width:100%;
   display:block;
